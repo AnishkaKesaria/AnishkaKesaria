@@ -1,5 +1,5 @@
-Hello! 
-I'm Anishka, a 20 year old pre-final year student at SRM. I love technology, music, bollywood and cricket. This account is a repository for documenting everything  I do, not always interesting.
+Hello!
+I'm Anishka, a pre-final year student at SRM. I love technology, music, bollywood and cricket. This account is a repository for documenting everything  I do, not always interesting.
 
 <!---
 AnishkaKesaria/AnishkaKesaria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
